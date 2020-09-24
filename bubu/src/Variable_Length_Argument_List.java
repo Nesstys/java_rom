@@ -1,8 +1,8 @@
 public class Variable_Length_Argument_List {
     public static void main(String[] args){
 
-        System.out.printf("44 * 53 * 8 * 1 * 0 * 5 = %d\n",
-                variableProduct(44, 53, 8, 0, 9, 5));
+        System.out.printf("44 * 53 * 8  * 2 * 5 = %d\n",
+                variableProduct(44, 53, 8, 2, 5));
 
         System.out.printf("3 * 3 = %d\n",
                 variableProduct(3, 3));
