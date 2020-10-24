@@ -1,3 +1,7 @@
+package Chapter3;
+
+import Chapter3.Account;
+
 import java.util.Scanner;
 
 public class AccountTest {

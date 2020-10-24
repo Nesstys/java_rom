@@ -1,3 +1,7 @@
+package Chapter8;
+
+import Chapter8.Rectangle;
+
 public class RectangleTest {
     public static void main(String[] args)
     {

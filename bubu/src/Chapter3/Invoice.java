@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class Invoice {
     String partNumber;
     String partDescription;

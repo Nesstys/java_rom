@@ -1,3 +1,7 @@
+package Chapter3;
+
+import Chapter3.Invoice;
+
 public class InvoiceTest {
     public static void main(String[] args) {
         Invoice invoice = new Invoice("a1bc2", "Samsung SSD 1TB", 200, 1);

@@ -1,3 +1,5 @@
+package Chapter8;
+
 public class Rectangle {
     private double length = 1;
     private double width = 1;

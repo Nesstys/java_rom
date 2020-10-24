@@ -1,3 +1,5 @@
+package Chapter5;
+
 import java.util.Scanner;
 
 public class Bar_Chart_Printing_Program {

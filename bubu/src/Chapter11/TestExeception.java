@@ -1,3 +1,9 @@
+package Chapter11;
+
+import Chapter11.ExeceptionA;
+import Chapter11.ExeceptionB;
+import Chapter11.ExeceptionC;
+
 public class TestExeception {
     public static void main(String[] args) {
         try {
